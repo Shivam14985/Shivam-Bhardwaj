@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Bhardwaj</h1>
-<h3 align="center">I am learning Full Stack Development in Android Using Java.</h3>
+<h3 align="center">I am Full Stack Development in Android Using Java.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam14985&label=Profile%20views&color=0e75b6&style=flat" alt="shivam14985" /> </p>
 
